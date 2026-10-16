@@ -1,0 +1,12 @@
+[
+  "users":[
+  {"id":1,"name": "Pudge", "discription": "strong", "roles": "all"},
+  {"id":2,"name": "Invoker", "discription": "inteligent", "roles": "mid, sup"},
+  {"id":3,"name": "Windranger", "discription": "beautiful", "roles": "mid, carry"}
+  ]
+  "skills":[
+    {"id":1, "first": "Hook", "second": "Rot", "ult": "shashlik"},
+    {"id":2, "first": "Sunstrike", "second": "EMP", "ult": "Invoke"},
+    {"id":3, "first": "Shackles", "second": "Powershot", "ult": "Rastrelyat"}
+  ]
+]
